@@ -3,7 +3,7 @@
   "version": "1.4.0",
   "private": true,
   "dependencies": {
-    "@claviska/jquery-minicolors": "~2.3.2",
+    "@claviska/jquery-minicolors": "~2.3.6",
     "@flowjs/flow.js": "~2.13.0",
     "@fullcalendar/bootstrap": "~4.3.0",
     "@fullcalendar/core": "~4.3.1",
